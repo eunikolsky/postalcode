@@ -1,0 +1,5 @@
+A small script to find out the number of different ways to pick 4 of https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Russian_postal_codes.svg/640px-Russian_postal_codes.svg.png[9 segments] that allow to distinguish all the 10 digits.
+
+image::https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Russian_postal_codes.svg/640px-Russian_postal_codes.svg.png[]
+
+Please read my blogpost for some more details: https://egeek.me/2024/02/18/a-postal-code-encoding-question/.
